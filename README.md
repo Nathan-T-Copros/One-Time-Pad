@@ -1,1 +1,1 @@
-This project was done in the class System Programming taught by Dr. Wittman. Code written by Nathan Copros.
+This programs performs a one time pad encryption using an input message and key from the user. This project was done in the class System Programming taught by Dr. Wittman. Code written by Nathan Copros.
